@@ -1,6 +1,6 @@
 # Olá, eu sou Ricardo 👋
 
-Sou desenvolvedor front-end desde 2015 e já trabalhei em mais de 60 projetos (e contando), entre sites, blogs, hotsites e etc. Tenho sólidos conhecimentos em HTML, CSS, JavaScrit e desenvolvimento responsivo.
+Sou desenvolvedor front-end desde 2015 e já trabalhei em mais de 60 projetos (e contando), entre sites, blogs, hotsites e etc. Tenho sólidos conhecimentos em HTML, CSS, JavaScript e desenvolvimento responsivo.
 
 <!--
 **ricardospalves/ricardospalves** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
