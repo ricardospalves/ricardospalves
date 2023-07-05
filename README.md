@@ -1,37 +1,37 @@
-# Olá, eu sou Ricardo <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="32">
+# Olá, eu sou Ricardo <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="32" alt="" aria-hidden="true">
 
-**Desenvolvedor front-end desde 2015**.
+Desenvolvedor front-end desde 2015 com uma paixão por criar interfaces incríveis e funcionais. Contribuí em mais de 70 projetos (e contando), sempre zelando pelas boas práticas, experiência do usuário e acessibilidade.
 
-Já trabalhei em mais de 60 projetos (e contando). Sou proficiente em <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="16" alt="HTML5 logo"> **HTML**, <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="16" alt="CSS3 logo"> **CSS**, <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="16" alt="JavaScript logo"> **JavaScript** e desenvolvimento responsivo, sempre zelando pela experiência do usuário e a acessibilidade.
+## Tabela de conteúdos
 
-## Bio
+- [🦾 Habilidades](#-habilidades)
+- [🌱 Aprimorando meus conhecimentos](#-aprimorando-meus-conhecimentos)
+- [📜 Bio](#-bio)
+- [🔍 Onde me encontrar](#-onde-me-encontrar)
 
-* 💼 Trabalho na **Spacelab - Agência e Produtora Web** desde 2015;
-* 🏡 Moro na cidade de São Paulo, SP;
-* 🌱 Aprendendo <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="16" alt="React logo"> **React**, <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="16" alt="Node.js logo"> **Node.js** e <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="16" alt="TypeScript logo"> **TypeScript**;
-* 👍 Tenho interesse pessoal em <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg" width="16" alt="Vue.js logo"> **Vue.js** e <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" width="16" alt="MongoDB logo"> **MongoDB**.
+## 🦾 Habilidades
 
-## Onde você pode me encontrar
+- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="16" alt="" aria-hidden="true"> React
+- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="16" alt="" aria-hidden="true"> JavaScript (<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="16" alt="" aria-hidden="true"> TypeScript)
+- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="16" alt="" aria-hidden="true"> HTML
+- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="16" alt="" aria-hidden="true"> CSS
+- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="16" alt="" aria-hidden="true"> React
 
-<a href="https://www.linkedin.com/in/ricardospalves/">
+## 🌱 Aprimorando meus conhecimentos
+
+- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="16" alt="" aria-hidden="true"> Node.js
+- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" width="16" alt="" aria-hidden="true"> MongoDB
+
+## 📜 Bio
+
+* 💼 **Desenvolvedor front-end** na [Spacelab - Agência e Produtora Web](https://spacelab.com.br/) desde 2015
+
+## 🔍 Onde me encontrar
+
+<a href="https://www.linkedin.com/in/ricardospalves/" aria-label="Meu perfil no LinkedIn">
   <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
 </a>
 
-<a href="https://codepen.io/ricardospalves">
+<a href="https://codepen.io/ricardospalves" aria-label="Meu perfil no LinkedIn">
   <img src="https://img.shields.io/badge/Codepen-%23000.svg?&style=for-the-badge&logo=codepen&logoColor=white" alt="Codepen">
 </a>
-
-<!--
-**ricardospalves/ricardospalves** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
