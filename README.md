@@ -2,6 +2,8 @@
 
 Desenvolvedor front-end desde 2015 com uma paixão por criar interfaces incríveis e funcionais. Contribuí em mais de 70 projetos (e contando), sempre zelando pelas boas práticas, experiência do usuário e acessibilidade.
 
+Aprendendo um pouco mais todo dia e evoluindo sempre.
+
 ## Tabela de conteúdos
 
 - [🦾 Habilidades](#-habilidades)
@@ -27,6 +29,8 @@ Desenvolvedor front-end desde 2015 com uma paixão por criar interfaces incríve
 * 💼 **Desenvolvedor front-end** na [Spacelab - Agência e Produtora Web](https://spacelab.com.br/) desde 2015
 
 ## 🔍 Onde me encontrar
+
+[🌐 Site pessoal](https://ricardospalves.github.io/)
 
 <a href="https://www.linkedin.com/in/ricardospalves/" aria-label="Meu perfil no LinkedIn">
   <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
