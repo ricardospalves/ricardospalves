@@ -4,6 +4,8 @@ Desenvolvedor front-end desde 2015 com uma paixão por criar interfaces incríve
 
 Aprendendo um pouco mais todo dia e evoluindo sempre.
 
+[🌐 Site pessoal](https://ricardospalves.github.io/)
+
 ## Tabela de conteúdos
 
 - [🦾 Habilidades](#-habilidades)
@@ -29,8 +31,6 @@ Aprendendo um pouco mais todo dia e evoluindo sempre.
 * 💼 **Desenvolvedor front-end** na [Spacelab - Agência e Produtora Web](https://spacelab.com.br/) desde 2015
 
 ## 🔍 Onde me encontrar
-
-[🌐 Site pessoal](https://ricardospalves.github.io/)
 
 <a href="https://www.linkedin.com/in/ricardospalves/" aria-label="Meu perfil no LinkedIn">
   <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
