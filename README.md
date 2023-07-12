@@ -1,8 +1,8 @@
 # Olá, eu sou Ricardo <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="32" alt="" aria-hidden="true">
 
-Desenvolvedor front-end desde 2015 com uma paixão por criar interfaces incríveis e funcionais. Contribuí em mais de 70 projetos (e contando), sempre zelando pelas boas práticas, experiência do usuário e acessibilidade.
+Olá, sou o Ricardo Alves, desenvolvedor front-end desde 2015, apaixonado por criar interfaces incríveis e funcionais. Com ampla contribuição em uma variedade de projetos, desde pequenos emails marketing até sites robustos. Busco evoluir constantemente em cada novo desafio, zelando pelas boas práticas, experiência do usuário e acessibilidade.
 
-Aprendendo um pouco mais todo dia e evoluindo sempre.
+Estou sempre atualizado com as últimas tendências e tecnologias, buscando expandir meu conhecimento e aprimorar minhas habilidades.
 
 [🌐 Site pessoal](https://ricardospalves.github.io/)
 
