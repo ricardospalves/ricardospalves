@@ -1,15 +1,15 @@
 # Olá, eu sou Ricardo <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="32" alt="" aria-hidden="true">
 
+[🌐 Acesse meu site](https://ricardospalves.github.io/)
+
 Olá, sou o Ricardo Alves, desenvolvedor front-end desde 2015, apaixonado por criar interfaces incríveis e funcionais. Com ampla contribuição em uma variedade de projetos, desde pequenos emails marketing até sites robustos. Busco evoluir constantemente em cada novo desafio, zelando pelas boas práticas, experiência do usuário e acessibilidade.
 
 Estou sempre atualizado com as últimas tendências e tecnologias, buscando expandir meu conhecimento e aprimorar minhas habilidades.
 
-[🌐 Site pessoal](https://ricardospalves.github.io/)
-
 ## Tabela de conteúdos
 
 - [🦾 Habilidades](#-habilidades)
-- [🌱 Aprimorando meus conhecimentos](#-aprimorando-meus-conhecimentos)
+- [🌱 Aprimorando](#-aprimorando)
 - [📜 Bio](#-bio)
 - [🔍 Onde me encontrar](#-onde-me-encontrar)
 
@@ -21,10 +21,12 @@ Estou sempre atualizado com as últimas tendências e tecnologias, buscando expa
 - <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="16" alt="" aria-hidden="true"> CSS
 - <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="16" alt="" aria-hidden="true"> React
 
-## 🌱 Aprimorando meus conhecimentos
+## 🌱 Aprimorando
 
 - <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="16" alt="" aria-hidden="true"> Node.js
-- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" width="16" alt="" aria-hidden="true"> MongoDB
+- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="16" alt="" aria-hidden="true"> Python
+- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/azuresqldatabase/azuresqldatabase-original.svg" width="16" alt="" aria-hidden="true"> Banco de dados
+- 🗣️ Inglês
 
 ## 📜 Bio
 
