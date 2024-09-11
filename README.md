@@ -19,7 +19,7 @@ Estou sempre atualizado com as últimas tendências e tecnologias, buscando expa
 - <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="16" alt="" aria-hidden="true"> JavaScript (<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="16" alt="" aria-hidden="true"> TypeScript)
 - <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="16" alt="" aria-hidden="true"> HTML
 - <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="16" alt="" aria-hidden="true"> CSS
-- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="16" alt="" aria-hidden="true"> React
+- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="16" alt="" aria-hidden="true"> Git
 
 ## 🌱 Aprimorando
 
